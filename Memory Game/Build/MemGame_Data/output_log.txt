@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770M (ID=0x11e0)
+    Vendor:   NVIDIA
+    VRAM:     3008 MB
+    Driver:   10.18.13.5946
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\MemGame\Unity\Memory Game\Build\MemGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3280x1080 at -1360,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.241905 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.260564 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.281823 ms (FindLiveObjects: 0.024376 ms CreateObjectMapping: 0.015823 ms MarkObjects: 0.229649 ms  DeleteObjects: 0.011546 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451174 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 0.276264 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.201424 ms  DeleteObjects: 0.026514 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1e90 -> priority: 1 
+  Thread -> id: 32fc -> priority: 1 
+  Thread -> id: 2f74 -> priority: 1 
+  Thread -> id: 212c -> priority: 1 

@@ -9,9 +9,9 @@ The objective of this game is to turn all cards face up as fast as possible
 
 Please find more details about the game at https://pronay.me
 
-MIT License
+## MIT License
 
-Copyright (c) [2020] [Pronay Peddiraju]
+Copyright (c) 2020 Pronay Peddiraju
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

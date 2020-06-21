@@ -1,7 +1,7 @@
 # Memory-Game
 Simple memory card game built using Unity as a pattern matching card game. Tis project was developed in 2016 as a solo game project using Unity 5
 
-##How it works:
+## How it works:
 The user is presented with 8 cards faced down. On clicking the card, the face of the card is revealed for a brief time. 
 If the second card selected by user matches the first face card, then both the cards stay faced up. Try to get all the cards face up as fast as possible.
 
